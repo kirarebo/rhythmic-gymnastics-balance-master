@@ -1,0 +1,7 @@
+{
+  "name": "RG Balance Master",
+  "description": "A Rhythmic Gymnastics training tool that compares a learner's pose against an expert's using AI analysis to provide feedback on balance, angle, and form.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
